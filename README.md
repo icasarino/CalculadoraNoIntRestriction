@@ -1,2 +1,2 @@
 # CalculadoraNoIntRestriction
-Una calculadora sin restricción de tamaño de enteros
+Programa de suma de enteros sin restricción de tamaño.
